@@ -1,0 +1,13 @@
+{
+  "name": "CodeSpace - Frontend",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "bradgashler.htmltagwrap"
+      ]
+    }
+  },
+  "remoteUser": "root"
+}
